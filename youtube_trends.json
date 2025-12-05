@@ -1,0 +1,1002 @@
+[
+    {
+        "Video_ID":"v_1",
+        "Title":"Educational Video #1",
+        "Views":22061917,
+        "Likes":1337809,
+        "Content_Type":"Educational",
+        "Video_Length_Min":28.0,
+        "Days_Since_Publish":10,
+        "Virality_Score":133780987.7600000054
+    },
+    {
+        "Video_ID":"v_2",
+        "Title":"Vlog\/Lifestyle Video #2",
+        "Views":26526909,
+        "Likes":851871,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":20.0,
+        "Days_Since_Publish":7,
+        "Virality_Score":121695933.0100000054
+    },
+    {
+        "Video_ID":"v_3",
+        "Title":"Short-Form Drama Video #3",
+        "Views":21309016,
+        "Likes":1493176,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":3.5,
+        "Days_Since_Publish":19,
+        "Virality_Score":78588244.3900000006
+    },
+    {
+        "Video_ID":"v_4",
+        "Title":"Vlog\/Lifestyle Video #4",
+        "Views":15267072,
+        "Likes":1205427,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":17.2,
+        "Days_Since_Publish":9,
+        "Virality_Score":133936384.2600000054
+    },
+    {
+        "Video_ID":"v_5",
+        "Title":"Educational Video #5",
+        "Views":20272155,
+        "Likes":1522654,
+        "Content_Type":"Educational",
+        "Video_Length_Min":31.4,
+        "Days_Since_Publish":2,
+        "Virality_Score":761327375.9400000572
+    },
+    {
+        "Video_ID":"v_6",
+        "Title":"Short-Form Drama Video #6",
+        "Views":30268282,
+        "Likes":2397962,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":7.4,
+        "Days_Since_Publish":28,
+        "Virality_Score":85641503.6299999952
+    },
+    {
+        "Video_ID":"v_7",
+        "Title":"Short-Form Drama Video #7",
+        "Views":21383361,
+        "Likes":933793,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.2,
+        "Days_Since_Publish":9,
+        "Virality_Score":103754819.8599999994
+    },
+    {
+        "Video_ID":"v_8",
+        "Title":"Gaming Video #8",
+        "Views":31863323,
+        "Likes":728039,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":15.2,
+        "Days_Since_Publish":5,
+        "Virality_Score":145607901.2700000107
+    },
+    {
+        "Video_ID":"v_9",
+        "Title":"Educational Video #9",
+        "Views":41112437,
+        "Likes":1671151,
+        "Content_Type":"Educational",
+        "Video_Length_Min":15.9,
+        "Days_Since_Publish":19,
+        "Virality_Score":87955358.5900000036
+    },
+    {
+        "Video_ID":"v_10",
+        "Title":"Gaming Video #10",
+        "Views":18606833,
+        "Likes":852190,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":26.3,
+        "Days_Since_Publish":17,
+        "Virality_Score":50128872.4299999997
+    },
+    {
+        "Video_ID":"v_11",
+        "Title":"Gaming Video #11",
+        "Views":31905775,
+        "Likes":2295665,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":12.9,
+        "Days_Since_Publish":28,
+        "Virality_Score":81988067.5100000054
+    },
+    {
+        "Video_ID":"v_12",
+        "Title":"Educational Video #12",
+        "Views":33809959,
+        "Likes":2152864,
+        "Content_Type":"Educational",
+        "Video_Length_Min":30.0,
+        "Days_Since_Publish":11,
+        "Virality_Score":195714983.1599999964
+    },
+    {
+        "Video_ID":"v_13",
+        "Title":"Educational Video #13",
+        "Views":30952126,
+        "Likes":889388,
+        "Content_Type":"Educational",
+        "Video_Length_Min":12.8,
+        "Days_Since_Publish":6,
+        "Virality_Score":148231356.75
+    },
+    {
+        "Video_ID":"v_14",
+        "Title":"Gaming Video #14",
+        "Views":16867172,
+        "Likes":480371,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":26.6,
+        "Days_Since_Publish":7,
+        "Virality_Score":68624430.8799999952
+    },
+    {
+        "Video_ID":"v_15",
+        "Title":"Short-Form Drama Video #15",
+        "Views":16451040,
+        "Likes":666122,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.0,
+        "Days_Since_Publish":2,
+        "Virality_Score":333061034.2799999714
+    },
+    {
+        "Video_ID":"v_16",
+        "Title":"Educational Video #16",
+        "Views":42626224,
+        "Likes":2978092,
+        "Content_Type":"Educational",
+        "Video_Length_Min":23.1,
+        "Days_Since_Publish":16,
+        "Virality_Score":186130764.7700000107
+    },
+    {
+        "Video_ID":"v_17",
+        "Title":"Short-Form Drama Video #17",
+        "Views":44695431,
+        "Likes":3367370,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":2.0,
+        "Days_Since_Publish":18,
+        "Virality_Score":187076115.7800000012
+    },
+    {
+        "Video_ID":"v_18",
+        "Title":"Vlog\/Lifestyle Video #18",
+        "Views":39561110,
+        "Likes":1553685,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":13.1,
+        "Days_Since_Publish":22,
+        "Virality_Score":70622076.950000003
+    },
+    {
+        "Video_ID":"v_19",
+        "Title":"Vlog\/Lifestyle Video #19",
+        "Views":43759901,
+        "Likes":3235903,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":25.7,
+        "Days_Since_Publish":12,
+        "Virality_Score":269658618.3299999833
+    },
+    {
+        "Video_ID":"v_20",
+        "Title":"Educational Video #20",
+        "Views":20926852,
+        "Likes":1360469,
+        "Content_Type":"Educational",
+        "Video_Length_Min":21.7,
+        "Days_Since_Publish":17,
+        "Virality_Score":80027622.3900000006
+    },
+    {
+        "Video_ID":"v_21",
+        "Title":"Vlog\/Lifestyle Video #21",
+        "Views":45336228,
+        "Likes":1603691,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":26.3,
+        "Days_Since_Publish":5,
+        "Virality_Score":320738275.0600000024
+    },
+    {
+        "Video_ID":"v_22",
+        "Title":"Vlog\/Lifestyle Video #22",
+        "Views":13655353,
+        "Likes":329853,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":14.5,
+        "Days_Since_Publish":10,
+        "Virality_Score":32985310.9800000004
+    },
+    {
+        "Video_ID":"v_23",
+        "Title":"Gaming Video #23",
+        "Views":18590881,
+        "Likes":1443411,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":17.4,
+        "Days_Since_Publish":20,
+        "Virality_Score":72170594.450000003
+    },
+    {
+        "Video_ID":"v_24",
+        "Title":"Educational Video #24",
+        "Views":27001357,
+        "Likes":1317705,
+        "Content_Type":"Educational",
+        "Video_Length_Min":17.2,
+        "Days_Since_Publish":2,
+        "Virality_Score":658852715.0599999428
+    },
+    {
+        "Video_ID":"v_25",
+        "Title":"Gaming Video #25",
+        "Views":35241124,
+        "Likes":748108,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":11.3,
+        "Days_Since_Publish":2,
+        "Virality_Score":374054123.8299999833
+    },
+    {
+        "Video_ID":"v_26",
+        "Title":"Vlog\/Lifestyle Video #26",
+        "Views":2624788,
+        "Likes":104818,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":10.9,
+        "Days_Since_Publish":25,
+        "Virality_Score":4192725.3100000001
+    },
+    {
+        "Video_ID":"v_27",
+        "Title":"Gaming Video #27",
+        "Views":8933512,
+        "Likes":495602,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":8.8,
+        "Days_Since_Publish":26,
+        "Virality_Score":19061643.8900000006
+    },
+    {
+        "Video_ID":"v_28",
+        "Title":"Short-Form Drama Video #28",
+        "Views":41725652,
+        "Likes":1255615,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.1,
+        "Days_Since_Publish":15,
+        "Virality_Score":83707697.4899999946
+    },
+    {
+        "Video_ID":"v_29",
+        "Title":"Gaming Video #29",
+        "Views":6894006,
+        "Likes":326752,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":23.9,
+        "Days_Since_Publish":20,
+        "Virality_Score":16337616.4600000009
+    },
+    {
+        "Video_ID":"v_30",
+        "Title":"Short-Form Drama Video #30",
+        "Views":32020101,
+        "Likes":2410208,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":2.3,
+        "Days_Since_Publish":17,
+        "Virality_Score":141776942.8899999857
+    },
+    {
+        "Video_ID":"v_31",
+        "Title":"Gaming Video #31",
+        "Views":32703224,
+        "Likes":1241190,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":7.6,
+        "Days_Since_Publish":10,
+        "Virality_Score":124119031.2399999946
+    },
+    {
+        "Video_ID":"v_32",
+        "Title":"Educational Video #32",
+        "Views":41617804,
+        "Likes":1024957,
+        "Content_Type":"Educational",
+        "Video_Length_Min":38.5,
+        "Days_Since_Publish":15,
+        "Virality_Score":68330469.9899999946
+    },
+    {
+        "Video_ID":"v_33",
+        "Title":"Short-Form Drama Video #33",
+        "Views":3333157,
+        "Likes":154771,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.1,
+        "Days_Since_Publish":21,
+        "Virality_Score":7370062.6799999997
+    },
+    {
+        "Video_ID":"v_34",
+        "Title":"Educational Video #34",
+        "Views":19911460,
+        "Likes":1529828,
+        "Content_Type":"Educational",
+        "Video_Length_Min":31.6,
+        "Days_Since_Publish":15,
+        "Virality_Score":101988558.450000003
+    },
+    {
+        "Video_ID":"v_35",
+        "Title":"Vlog\/Lifestyle Video #35",
+        "Views":16386762,
+        "Likes":800469,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":26.4,
+        "Days_Since_Publish":14,
+        "Virality_Score":57176409.4900000021
+    },
+    {
+        "Video_ID":"v_36",
+        "Title":"Vlog\/Lifestyle Video #36",
+        "Views":46086025,
+        "Likes":1426066,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":34.3,
+        "Days_Since_Publish":14,
+        "Virality_Score":101861863.1400000006
+    },
+    {
+        "Video_ID":"v_37",
+        "Title":"Educational Video #37",
+        "Views":3498897,
+        "Likes":89423,
+        "Content_Type":"Educational",
+        "Video_Length_Min":33.4,
+        "Days_Since_Publish":13,
+        "Virality_Score":6878715.9000000004
+    },
+    {
+        "Video_ID":"v_38",
+        "Title":"Gaming Video #38",
+        "Views":38573745,
+        "Likes":1852742,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":29.9,
+        "Days_Since_Publish":27,
+        "Virality_Score":68620104.25
+    },
+    {
+        "Video_ID":"v_39",
+        "Title":"Educational Video #39",
+        "Views":15301474,
+        "Likes":430871,
+        "Content_Type":"Educational",
+        "Video_Length_Min":19.4,
+        "Days_Since_Publish":29,
+        "Virality_Score":14857627.9199999999
+    },
+    {
+        "Video_ID":"v_40",
+        "Title":"Short-Form Drama Video #40",
+        "Views":20993036,
+        "Likes":1564991,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.4,
+        "Days_Since_Publish":13,
+        "Virality_Score":120383937.0799999982
+    },
+    {
+        "Video_ID":"v_41",
+        "Title":"Vlog\/Lifestyle Video #41",
+        "Views":1766443,
+        "Likes":75908,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":23.8,
+        "Days_Since_Publish":12,
+        "Virality_Score":6325724.5700000003
+    },
+    {
+        "Video_ID":"v_42",
+        "Title":"Educational Video #42",
+        "Views":31504020,
+        "Likes":1076981,
+        "Content_Type":"Educational",
+        "Video_Length_Min":17.3,
+        "Days_Since_Publish":5,
+        "Virality_Score":215396374.6699999869
+    },
+    {
+        "Video_ID":"v_43",
+        "Title":"Vlog\/Lifestyle Video #43",
+        "Views":36073550,
+        "Likes":906836,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":36.6,
+        "Days_Since_Publish":9,
+        "Virality_Score":100759590.2300000042
+    },
+    {
+        "Video_ID":"v_44",
+        "Title":"Vlog\/Lifestyle Video #44",
+        "Views":25610789,
+        "Likes":1502268,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":31.4,
+        "Days_Since_Publish":8,
+        "Virality_Score":187783505.5600000024
+    },
+    {
+        "Video_ID":"v_45",
+        "Title":"Vlog\/Lifestyle Video #45",
+        "Views":42162806,
+        "Likes":1234871,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":20.1,
+        "Days_Since_Publish":3,
+        "Virality_Score":411623816.2599999905
+    },
+    {
+        "Video_ID":"v_46",
+        "Title":"Short-Form Drama Video #46",
+        "Views":34708018,
+        "Likes":1688607,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":6.9,
+        "Days_Since_Publish":18,
+        "Virality_Score":93811541.450000003
+    },
+    {
+        "Video_ID":"v_47",
+        "Title":"Gaming Video #47",
+        "Views":36976385,
+        "Likes":1755107,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":9.9,
+        "Days_Since_Publish":18,
+        "Virality_Score":97505970.1700000018
+    },
+    {
+        "Video_ID":"v_48",
+        "Title":"Short-Form Drama Video #48",
+        "Views":25140053,
+        "Likes":1072153,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":7.8,
+        "Days_Since_Publish":3,
+        "Virality_Score":357384443.2099999785
+    },
+    {
+        "Video_ID":"v_49",
+        "Title":"Gaming Video #49",
+        "Views":17665705,
+        "Likes":1068021,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":17.7,
+        "Days_Since_Publish":27,
+        "Virality_Score":39556357.700000003
+    },
+    {
+        "Video_ID":"v_50",
+        "Title":"Vlog\/Lifestyle Video #50",
+        "Views":47685706,
+        "Likes":3485514,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":20.1,
+        "Days_Since_Publish":19,
+        "Virality_Score":183448147.3400000036
+    },
+    {
+        "Video_ID":"v_51",
+        "Title":"Short-Form Drama Video #51",
+        "Views":38088449,
+        "Likes":2109717,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":7.5,
+        "Days_Since_Publish":12,
+        "Virality_Score":175809822.3899999857
+    },
+    {
+        "Video_ID":"v_52",
+        "Title":"Short-Form Drama Video #52",
+        "Views":23128210,
+        "Likes":1769488,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.5,
+        "Days_Since_Publish":14,
+        "Virality_Score":126392040.7099999934
+    },
+    {
+        "Video_ID":"v_53",
+        "Title":"Vlog\/Lifestyle Video #53",
+        "Views":27324448,
+        "Likes":2118143,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":36.5,
+        "Days_Since_Publish":2,
+        "Virality_Score":1059071740.6499999762
+    },
+    {
+        "Video_ID":"v_54",
+        "Title":"Educational Video #54",
+        "Views":10516709,
+        "Likes":686463,
+        "Content_Type":"Educational",
+        "Video_Length_Min":23.8,
+        "Days_Since_Publish":24,
+        "Virality_Score":28602658.5
+    },
+    {
+        "Video_ID":"v_55",
+        "Title":"Vlog\/Lifestyle Video #55",
+        "Views":11142045,
+        "Likes":783007,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":18.6,
+        "Days_Since_Publish":9,
+        "Virality_Score":87000860.9300000072
+    },
+    {
+        "Video_ID":"v_56",
+        "Title":"Vlog\/Lifestyle Video #56",
+        "Views":25625285,
+        "Likes":805151,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":38.3,
+        "Days_Since_Publish":28,
+        "Virality_Score":28755395.6999999993
+    },
+    {
+        "Video_ID":"v_57",
+        "Title":"Vlog\/Lifestyle Video #57",
+        "Views":33968657,
+        "Likes":827272,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":28.4,
+        "Days_Since_Publish":27,
+        "Virality_Score":30639710.7899999991
+    },
+    {
+        "Video_ID":"v_58",
+        "Title":"Short-Form Drama Video #58",
+        "Views":38194863,
+        "Likes":982559,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.6,
+        "Days_Since_Publish":16,
+        "Virality_Score":61409997.0200000033
+    },
+    {
+        "Video_ID":"v_59",
+        "Title":"Vlog\/Lifestyle Video #59",
+        "Views":17732205,
+        "Likes":1136805,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":15.6,
+        "Days_Since_Publish":9,
+        "Virality_Score":126311680.1299999952
+    },
+    {
+        "Video_ID":"v_60",
+        "Title":"Educational Video #60",
+        "Views":32934280,
+        "Likes":1943647,
+        "Content_Type":"Educational",
+        "Video_Length_Min":23.1,
+        "Days_Since_Publish":4,
+        "Virality_Score":485911860.8299999833
+    },
+    {
+        "Video_ID":"v_61",
+        "Title":"Educational Video #61",
+        "Views":19794402,
+        "Likes":1575385,
+        "Content_Type":"Educational",
+        "Video_Length_Min":26.2,
+        "Days_Since_Publish":20,
+        "Virality_Score":78769283.4200000018
+    },
+    {
+        "Video_ID":"v_62",
+        "Title":"Short-Form Drama Video #62",
+        "Views":5261753,
+        "Likes":400054,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":3.9,
+        "Days_Since_Publish":27,
+        "Virality_Score":14816817.9800000004
+    },
+    {
+        "Video_ID":"v_63",
+        "Title":"Gaming Video #63",
+        "Views":5120891,
+        "Likes":241609,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":18.4,
+        "Days_Since_Publish":16,
+        "Virality_Score":15100569.6300000008
+    },
+    {
+        "Video_ID":"v_64",
+        "Title":"Short-Form Drama Video #64",
+        "Views":28491982,
+        "Likes":719976,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":1.8,
+        "Days_Since_Publish":9,
+        "Virality_Score":79997408.3100000024
+    },
+    {
+        "Video_ID":"v_65",
+        "Title":"Educational Video #65",
+        "Views":19472533,
+        "Likes":1395558,
+        "Content_Type":"Educational",
+        "Video_Length_Min":36.7,
+        "Days_Since_Publish":11,
+        "Virality_Score":126868919.4699999988
+    },
+    {
+        "Video_ID":"v_66",
+        "Title":"Gaming Video #66",
+        "Views":11621589,
+        "Likes":337443,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":6.7,
+        "Days_Since_Publish":27,
+        "Virality_Score":12497919.4100000001
+    },
+    {
+        "Video_ID":"v_67",
+        "Title":"Educational Video #67",
+        "Views":38593326,
+        "Likes":2262229,
+        "Content_Type":"Educational",
+        "Video_Length_Min":14.0,
+        "Days_Since_Publish":28,
+        "Virality_Score":80793920.0900000036
+    },
+    {
+        "Video_ID":"v_68",
+        "Title":"Vlog\/Lifestyle Video #68",
+        "Views":49650124,
+        "Likes":1498632,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":23.3,
+        "Days_Since_Publish":4,
+        "Virality_Score":374658053.5500000119
+    },
+    {
+        "Video_ID":"v_69",
+        "Title":"Vlog\/Lifestyle Video #69",
+        "Views":40275723,
+        "Likes":3214612,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":8.6,
+        "Days_Since_Publish":24,
+        "Virality_Score":133942167.0400000066
+    },
+    {
+        "Video_ID":"v_70",
+        "Title":"Gaming Video #70",
+        "Views":18768582,
+        "Likes":881014,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":19.6,
+        "Days_Since_Publish":4,
+        "Virality_Score":220253641.9900000095
+    },
+    {
+        "Video_ID":"v_71",
+        "Title":"Vlog\/Lifestyle Video #71",
+        "Views":30792011,
+        "Likes":1756753,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":26.1,
+        "Days_Since_Publish":11,
+        "Virality_Score":159704875.3899999857
+    },
+    {
+        "Video_ID":"v_72",
+        "Title":"Vlog\/Lifestyle Video #72",
+        "Views":21122951,
+        "Likes":545726,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":28.1,
+        "Days_Since_Publish":17,
+        "Virality_Score":32101554.4600000009
+    },
+    {
+        "Video_ID":"v_73",
+        "Title":"Vlog\/Lifestyle Video #73",
+        "Views":33972636,
+        "Likes":2207808,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":17.9,
+        "Days_Since_Publish":7,
+        "Virality_Score":315401144.0
+    },
+    {
+        "Video_ID":"v_74",
+        "Title":"Short-Form Drama Video #74",
+        "Views":4210743,
+        "Likes":144043,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.5,
+        "Days_Since_Publish":7,
+        "Virality_Score":20577665.4499999993
+    },
+    {
+        "Video_ID":"v_75",
+        "Title":"Short-Form Drama Video #75",
+        "Views":1850003,
+        "Likes":81548,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.3,
+        "Days_Since_Publish":3,
+        "Virality_Score":27182843.7800000012
+    },
+    {
+        "Video_ID":"v_76",
+        "Title":"Short-Form Drama Video #76",
+        "Views":4284632,
+        "Likes":222549,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":3.8,
+        "Days_Since_Publish":28,
+        "Virality_Score":7948189.6399999997
+    },
+    {
+        "Video_ID":"v_77",
+        "Title":"Vlog\/Lifestyle Video #77",
+        "Views":2877054,
+        "Likes":155435,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":35.7,
+        "Days_Since_Publish":3,
+        "Virality_Score":51811926.3200000003
+    },
+    {
+        "Video_ID":"v_78",
+        "Title":"Gaming Video #78",
+        "Views":16054749,
+        "Likes":732904,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":27.3,
+        "Days_Since_Publish":21,
+        "Virality_Score":34900199.6599999964
+    },
+    {
+        "Video_ID":"v_79",
+        "Title":"Short-Form Drama Video #79",
+        "Views":26238972,
+        "Likes":1779020,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":7.9,
+        "Days_Since_Publish":29,
+        "Virality_Score":61345537.0600000024
+    },
+    {
+        "Video_ID":"v_80",
+        "Title":"Vlog\/Lifestyle Video #80",
+        "Views":28689043,
+        "Likes":2081250,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":20.0,
+        "Days_Since_Publish":28,
+        "Virality_Score":74330388.0400000066
+    },
+    {
+        "Video_ID":"v_81",
+        "Title":"Educational Video #81",
+        "Views":45637981,
+        "Likes":1755520,
+        "Content_Type":"Educational",
+        "Video_Length_Min":37.2,
+        "Days_Since_Publish":23,
+        "Virality_Score":76326973.1099999994
+    },
+    {
+        "Video_ID":"v_82",
+        "Title":"Short-Form Drama Video #82",
+        "Views":17973283,
+        "Likes":661433,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":2.8,
+        "Days_Since_Publish":13,
+        "Virality_Score":50879489.7199999988
+    },
+    {
+        "Video_ID":"v_83",
+        "Title":"Vlog\/Lifestyle Video #83",
+        "Views":25644409,
+        "Likes":1835633,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":34.4,
+        "Days_Since_Publish":26,
+        "Virality_Score":70601291.6599999964
+    },
+    {
+        "Video_ID":"v_84",
+        "Title":"Educational Video #84",
+        "Views":2595358,
+        "Likes":103084,
+        "Content_Type":"Educational",
+        "Video_Length_Min":29.4,
+        "Days_Since_Publish":6,
+        "Virality_Score":17180690.5799999982
+    },
+    {
+        "Video_ID":"v_85",
+        "Title":"Educational Video #85",
+        "Views":8550826,
+        "Likes":173380,
+        "Content_Type":"Educational",
+        "Video_Length_Min":29.9,
+        "Days_Since_Publish":22,
+        "Virality_Score":7880914.7199999997
+    },
+    {
+        "Video_ID":"v_86",
+        "Title":"Vlog\/Lifestyle Video #86",
+        "Views":1504908,
+        "Likes":48320,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":12.3,
+        "Days_Since_Publish":29,
+        "Virality_Score":1666218.0600000001
+    },
+    {
+        "Video_ID":"v_87",
+        "Title":"Educational Video #87",
+        "Views":49862377,
+        "Likes":1160531,
+        "Content_Type":"Educational",
+        "Video_Length_Min":37.6,
+        "Days_Since_Publish":8,
+        "Virality_Score":145066392.5600000024
+    },
+    {
+        "Video_ID":"v_88",
+        "Title":"Short-Form Drama Video #88",
+        "Views":35902038,
+        "Likes":2811081,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.6,
+        "Days_Since_Publish":6,
+        "Virality_Score":468513586.0
+    },
+    {
+        "Video_ID":"v_89",
+        "Title":"Gaming Video #89",
+        "Views":24847490,
+        "Likes":1703093,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":25.6,
+        "Days_Since_Publish":13,
+        "Virality_Score":131007222.0199999958
+    },
+    {
+        "Video_ID":"v_90",
+        "Title":"Gaming Video #90",
+        "Views":32327904,
+        "Likes":2047936,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":22.4,
+        "Days_Since_Publish":17,
+        "Virality_Score":120466833.2600000054
+    },
+    {
+        "Video_ID":"v_91",
+        "Title":"Short-Form Drama Video #91",
+        "Views":25326012,
+        "Likes":1822756,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":3.8,
+        "Days_Since_Publish":16,
+        "Virality_Score":113922290.5799999982
+    },
+    {
+        "Video_ID":"v_92",
+        "Title":"Educational Video #92",
+        "Views":17682745,
+        "Likes":435893,
+        "Content_Type":"Educational",
+        "Video_Length_Min":18.0,
+        "Days_Since_Publish":5,
+        "Virality_Score":87178607.0799999982
+    },
+    {
+        "Video_ID":"v_93",
+        "Title":"Gaming Video #93",
+        "Views":23863353,
+        "Likes":577300,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":8.0,
+        "Days_Since_Publish":28,
+        "Virality_Score":20617858.4800000004
+    },
+    {
+        "Video_ID":"v_94",
+        "Title":"Vlog\/Lifestyle Video #94",
+        "Views":37265530,
+        "Likes":2714485,
+        "Content_Type":"Vlog\/Lifestyle",
+        "Video_Length_Min":32.5,
+        "Days_Since_Publish":16,
+        "Virality_Score":169655363.3400000036
+    },
+    {
+        "Video_ID":"v_95",
+        "Title":"Gaming Video #95",
+        "Views":23468050,
+        "Likes":1314065,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":5.2,
+        "Days_Since_Publish":25,
+        "Virality_Score":52562634.1400000006
+    },
+    {
+        "Video_ID":"v_96",
+        "Title":"Short-Form Drama Video #96",
+        "Views":41581653,
+        "Likes":3108854,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.8,
+        "Days_Since_Publish":8,
+        "Virality_Score":388606833.8399999738
+    },
+    {
+        "Video_ID":"v_97",
+        "Title":"Gaming Video #97",
+        "Views":27888519,
+        "Likes":837915,
+        "Content_Type":"Gaming",
+        "Video_Length_Min":28.2,
+        "Days_Since_Publish":9,
+        "Virality_Score":93101684.8900000006
+    },
+    {
+        "Video_ID":"v_98",
+        "Title":"Educational Video #98",
+        "Views":27014175,
+        "Likes":2125702,
+        "Content_Type":"Educational",
+        "Video_Length_Min":14.0,
+        "Days_Since_Publish":28,
+        "Virality_Score":75917960.1700000018
+    },
+    {
+        "Video_ID":"v_99",
+        "Title":"Educational Video #99",
+        "Views":10690510,
+        "Likes":851497,
+        "Content_Type":"Educational",
+        "Video_Length_Min":25.7,
+        "Days_Since_Publish":4,
+        "Virality_Score":212874256.7899999917
+    },
+    {
+        "Video_ID":"v_100",
+        "Title":"Short-Form Drama Video #100",
+        "Views":45764742,
+        "Likes":1766024,
+        "Content_Type":"Short-Form Drama",
+        "Video_Length_Min":5.5,
+        "Days_Since_Publish":9,
+        "Virality_Score":196224893.099999994
+    }
+]
