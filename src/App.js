@@ -102,9 +102,9 @@ const App = () => {
 
     return (
         <div style={{ padding: '20px', maxWidth: '1200px', margin: '0 auto', fontFamily: 'Arial, sans-serif' }}>
-            <h1 style={{color: '#E50914'}}>📈 Netflix Project: YouTube Content Genome</h1>
+            <h1 style={{color: '#E50914'}}>📈 Personal Project: YouTube Content Genome</h1>
             <p style={{fontSize: '1.1em', marginBottom: '30px'}}>
-                Identifying high-impact content formats by plotting **Video Length** against an **Engineered Virality Score** (Views per Day * Like Ratio). The clusters reveal optimal duration for different content types.
+                Identifying high-impact content formats by plotting Video Length against an Engineered Virality Score (Views per Day * Like Ratio). The clusters reveal optimal duration for different content types.
             </p>
             
             <div style={{ height: '600px', border: '1px solid #ddd', padding: '15px', borderRadius: '8px' }}>
@@ -114,9 +114,10 @@ const App = () => {
             
             <h3 style={{marginTop: '40px', borderBottom: '2px solid #E50914', paddingBottom: '5px'}}>🔑 Data Storytelling: Business Insights</h3>
             <ul style={{lineHeight: '1.6'}}>
-                <li>**Optimal Length:** We can visually identify the **sweet spot** for each genre. For example, highly viral **Short-Form Drama** (teal/green points) consistently peaks under 8 minutes.</li>
-                <li>**Educational Investment:** **Educational** content (blue points) has a high-virality distribution across longer formats (15-30+ minutes), suggesting audiences are willing to invest more time in quality educational series.</li>
-                <li>**Actionable Strategy:** Netflix should prioritize creating **snappy, short-form pilots** for drama/comedy (to capture quick attention) and invest in **longer, binge-worthy content** for educational/documentary genres.</li>
+                <li>Optimal Length: We can visually identify the *sweet spot* for each genre. For example, highly viral **Short-Form Drama (teal/green points) consistently peaks under 8 minutes.</li>
+                <li>Educational Investment: Educational content (blue points) has a high-virality distribution across longer formats (15-30+ minutes), suggesting audiences are willing to invest more time in quality educational series.</li>
+                <li>Recommended Insights: Creators should prioritize creating snappy, short-form pilots for drama/comedy (to capture quick attention) and invest in longer, binge-worthy content for educational/documentary genres.</li>
+                <li> Note: The current Engineered Virality Score is calculated solely using intrinsic metrics (Views, Likes, and Time Since Publish). While this effectively measures a video's immediate success based on audience reception, it is subject to significant external bias. (Some factors not accounted for include: Creator Bias - videos being well-established creators with large, loyal subscriber bases and External Market - Aggressive promotion on other platforms (e.g., Tiktok, Instagram, TV commercials). Therefore my current insight on "optimal length" better reflects the consumption habits of already-primed audiences, rather than true organic format effectiveness.</li> 
             </ul>
         </div>
     );
