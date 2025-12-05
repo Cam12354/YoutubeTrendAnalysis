@@ -17,3 +17,6 @@ It is important to note that the current Virality Score measures intrinsic perfo
 The analysis does not differentiate between videos that went viral organically versus those that went viral due to a large, pre-existing subscriber base or extensive external marketing (e.g., promotion on Instagram or TV).
 
 Therefore, the correlation between optimal video length and virality may be heavily influenced by videos from established creators, which inherently start with higher views. Future work will focus on normalizing this score to account for creator fame.
+
+
+Check it out here -> https://youtubetrendviz.netlify.app/
